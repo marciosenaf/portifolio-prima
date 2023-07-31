@@ -29,3 +29,9 @@ Dr. Braga é apaixonado por saúde cardiovascular e se esforça para se manter a
 
 ## Isenção de responsabilidade
 Este portfólio é apenas para fins informativos e não constitui aconselhamento médico. Os pacientes que procuram atendimento médico devem consultar a Dra. Leila Braga ou outro profissional de saúde qualificado.
+
+# Autor
+
+Márcio Sena 
+
+https://www.linkedin.com/in/marciosenaf/
